@@ -28,4 +28,3 @@ If authenticated: Redirects to Notes Screen
 If not authenticated: Redirects to Login Screen
 Login/Signup: Uses Firebase Auth with email/password
 Session Persistence: Firebase Auth automatically persists sessions
->>>>>>> b70c22eab60fb30ce4e982095c737b4ff5ccc94a

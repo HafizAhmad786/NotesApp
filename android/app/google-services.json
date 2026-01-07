@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "234545800256",
+    "firebase_url": "https://testing-6058c-default-rtdb.firebaseio.com",
+    "project_id": "testing-6058c",
+    "storage_bucket": "testing-6058c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234545800256:android:3af8b93c58cdbb320d2ba5",
+        "android_client_info": {
+          "package_name": "com.app.notes_app.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6fX2pFD_m6mJXbF_htvsTgjGzccDBHKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
